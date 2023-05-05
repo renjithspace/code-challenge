@@ -1,8 +1,4 @@
 {
-  "name": "interview",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "renjithspace <renjithrajeevvk@gmail.com>",
   "license": "MIT",
   "scripts": {
     "test": "jest"
