@@ -6,3 +6,4 @@
 3. [Check whether a number is prime number or not](/challenges/isPrimeNumber.ts)
 4. [Calculates the factorial of a number](/challenges/calcFactorial.ts)
 5. [Calculates the factorial of a number using recursive approach](/challenges/recursiveCalcFactorial.ts)
+6. [Check whether a number is odd or even](/challenges/isOddOrEven.ts)
