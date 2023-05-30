@@ -7,3 +7,4 @@
 4. [Calculates the factorial of a number](/challenges/calcFactorial.ts)
 5. [Calculates the factorial of a number using recursive approach](/challenges/recursiveCalcFactorial.ts)
 6. [Check whether a number is odd or even](/challenges/isOddOrEven.ts)
+7. [Reverses the order of the elements in an array](/challenges/reverseArray.ts)
