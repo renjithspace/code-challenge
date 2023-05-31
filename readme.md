@@ -10,3 +10,4 @@ Coding challenges are a great way to learn the syntax, features, best practices 
 5. [Calculates the factorial of a number using recursive approach](/challenges/recursiveCalcFactorial.ts)
 6. [Check whether a number is odd or even](/challenges/isOddOrEven.ts)
 7. [Reverses the order of the elements in an array](/challenges/reverseArray.ts)
+8. [Reverses the order of the characters in a string](/challenges/reverseString.ts)
