@@ -14,4 +14,4 @@ Build confidence in TypeScript development while mastering essential programming
 8. [Reverses the order of the characters in a string](/challenges/reverseString.ts)
 
 ### Algorithms
-9.  [Binary search](/algorithms/binarySearch.ts)
+1.  [Binary search](/algorithms/binarySearch.ts)
