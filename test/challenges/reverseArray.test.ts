@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import reverseArray from "../challenges/reverseArray";
+import reverseArray from "../../challenges/reverseArray";
 
 describe("reverseArray", () => {
   test("should return same array if reverse single element array", () => {

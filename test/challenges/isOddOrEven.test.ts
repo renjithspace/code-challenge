@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import isOddOrEven from "../challenges/isOddOrEven";
+import isOddOrEven from "../../challenges/isOddOrEven";
 
 describe("isOddOrEven", () => {
   test("should throw an error for non-integer numbers", () => {

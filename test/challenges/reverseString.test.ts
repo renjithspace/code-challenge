@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import reverseString from "../challenges/reverseString";
+import reverseString from "../../challenges/reverseString";
 
 describe("reverseString", () => {
   test("should reverse string", () => {

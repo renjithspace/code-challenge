@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import binarySearch from "../challenges/binarySearch";
+import binarySearch from "../../algorithms/binarySearch";
 
 describe("binarySearch", () => {
   test("should return the index of the target value if it is found", () => {

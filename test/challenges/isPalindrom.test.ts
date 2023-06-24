@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import isPalindrom from "../challenges/isPalindrom";
+import isPalindrom from "../../challenges/isPalindrom";
 
 describe("isPalindrom", () => {
   test("returns true for palindromes", () => {

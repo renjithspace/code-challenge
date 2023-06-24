@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import calcFactorial from "../challenges/calcFactorial";
+import calcFactorial from "../../challenges/calcFactorial";
 
 describe("recursiveCalcFactorial", () => {
   test("should throw an error for negative numbers", () => {

@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import { isAnagram } from "../challenges/isAnagram";
+import { isAnagram } from "../../challenges/isAnagram";
 
 describe("isAnagram", () => {
   test("should return true for valid anagrams", () => {

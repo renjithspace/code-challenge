@@ -1,5 +1,5 @@
 import { describe, test, expect } from "@jest/globals";
-import isPrimeNumber from "../challenges/isPrimeNumber";
+import isPrimeNumber from "../../challenges/isPrimeNumber";
 
 describe("isPrimeNumber", () => {
   test("returns false for non-prime numbers", () => {
