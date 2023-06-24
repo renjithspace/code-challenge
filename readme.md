@@ -1,6 +1,7 @@
-# Coding challenges in TypeScript for Beginners
+# TypeScript Code Mastery
 
-Coding challenges are a great way to learn the syntax, features, best practices of a programming language and develop your problem-solving skills. This curated list of coding challenges for beginners in TypeScript will help you to practice your coding skills and improve your understanding of the language.
+Build confidence in TypeScript development while mastering essential programming principles.
+
 
 ### Challenges
 1. [Check whether two strings are anagram or not](/challenges/isAnagram.ts)
